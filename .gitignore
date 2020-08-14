@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+maven-java-design_patterns.iml
+target/
+#pom.xml
+#src/
