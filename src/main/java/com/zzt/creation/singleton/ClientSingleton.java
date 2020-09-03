@@ -1,6 +1,5 @@
 package com.zzt.creation.singleton;
 
-import com.sun.corba.se.impl.naming.namingutil.INSURL;
 
 /**
  * 描述：<br>单例设计模式：
