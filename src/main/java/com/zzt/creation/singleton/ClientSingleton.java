@@ -1,4 +1,4 @@
-package com.zzt.singleton;
+package com.zzt.creation.singleton;
 
 import com.sun.corba.se.impl.naming.namingutil.INSURL;
 
